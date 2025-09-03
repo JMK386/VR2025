@@ -7,11 +7,11 @@ ParaParaVR
 
 # Mechanics
 
-The player will move their arms in time to markers which determine how and where their arm should move.
+Players of the game will have to move their arms in time to music while also moving their arms through or hitting markers.
 
 # Dynamics
 
-You have to be as accurate as possible to get the best score that you can.
+The goal of the game is to be as accurate as possible when hitting any markers. Depending on how close the timing is or how close the player is, the more points they will earn.
 
 # Aesthetics
 
