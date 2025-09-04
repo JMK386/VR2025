@@ -17,4 +17,6 @@ The goal of the game is to be as accurate as possible when hitting any markers. 
 
 # Aesthetics
 
-The look will be somewhat futuristic.
+With scoring, the game will have a competetive side, but the main point is just to have fun and get moving.
+
+The look of the game will be somewhat futuristic.  The editor could have settings where you could change the backgrounds of created charts.
